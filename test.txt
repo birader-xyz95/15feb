@@ -3,3 +3,4 @@ hello good morning
 this is my practising session for git.
 going to edit again
 yes
+last edit to check for the merging
